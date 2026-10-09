@@ -1,6 +1,6 @@
 # Surtido por tienda con estimación de demanda y sustitución
 
-Proyecto final de Aprendizaje de Máquina II. Recrea el procedimiento del artículo de Fisher y Vaidyanathan (2014), *A Demand Estimation Procedure for Retail Assortment Optimization with Results from Implementations*, Management Science ([DOI 10.1287/mnsc.2014.1904](https://doi.org/10.1287/mnsc.2014.1904)).
+Proyecto final de Aprendizaje de Máquina II, por Camila Soto y Laura Vega. Recrea el procedimiento del artículo de Fisher y Vaidyanathan (2014), *A Demand Estimation Procedure for Retail Assortment Optimization with Results from Implementations*, Management Science ([DOI 10.1287/mnsc.2014.1904](https://doi.org/10.1287/mnsc.2014.1904)).
 
 El artículo responde esta pregunta: una cadena tiene un espacio limitado en el estante para una categoría y debe decidir qué productos pone en cada tienda. Para eso estima la demanda de cada producto en cada tienda, incluidos los que hoy no vende, y la probabilidad de que un cliente sustituya su producto favorito cuando no lo encuentra.
 
