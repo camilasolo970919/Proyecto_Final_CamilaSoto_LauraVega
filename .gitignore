@@ -1,0 +1,15 @@
+# Sistema y editor
+.DS_Store
+.vscode/
+.claude/
+
+# Python y Jupyter
+__pycache__/
+*.pyc
+.ipynb_checkpoints/
+.venv/
+venv/
+
+# Datos públicos que el notebook descarga solo (The Complete Journey)
+data/*.rds
+data/*.rda
