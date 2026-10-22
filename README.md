@@ -9,8 +9,8 @@ El artículo responde esta pregunta: una cadena tiene un espacio limitado en el 
 1. Simula las ventas de una cadena de 140 tiendas y 92 productos posibles, con los parámetros que reporta el artículo para la categoría de ponqués. Los datos originales no están publicados.
 2. Estima la demanda y la sustitución de cada tienda por máxima verosimilitud.
 3. Valida las estimaciones con un periodo que el modelo no vio.
-4. Optimiza el surtido con la heurística greedy, para toda la cadena y por tienda.
-5. Agrupa las tiendas según el surtido que más les conviene y mide el beneficio de localizar.
+4. Optimiza el surtido con la heurística greedy, para toda la cadena y por tienda, y la compara con el óptimo exacto.
+5. Agrupa las tiendas según el surtido que más les conviene, mide el beneficio de localizar y revisa de qué depende.
 6. Pronostica las ventas de un producto nuevo.
 7. Aplica el mismo procedimiento a datos públicos de yogur (The Complete Journey, de dunnhumby).
 
@@ -57,6 +57,7 @@ La sección 13 descarga dos archivos del repositorio público [completejourney](
 | `figures/` | `01_exploracion.png` | exploración de los datos simulados |
 | `figures/` | `02_ingreso_vs_tamano.png` | ingreso capturado según el tamaño del surtido |
 | `figures/` | `03_beneficio_localizacion.png` | beneficio de localizar según el número de surtidos |
+| `figures/` | `04_localizacion_vs_surtido.png` | beneficio de localizar según el tamaño del surtido y la cuota del óptimo de cadena |
 
 ## Referencia
 
